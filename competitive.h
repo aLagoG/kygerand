@@ -9,3 +9,5 @@ typedef pair<int, int> ii;
 typedef vector<ii> vii;
 typedef vector<int> vi;
 #define INF 1000000000
+#define LEN(x) sizeof(x)/sizeof(x[0])
+#define ALL(x) x.begin(), x.end()
