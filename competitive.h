@@ -4,6 +4,7 @@
 // Shortcuts for "common" data types in contests
 typedef long long ll;
 typedef unsigned long long ull;
+typedef unsigned int ui;
 typedef pair<int, int> ii;
 typedef vector<ii> vii;
 typedef vector<int> vi;
