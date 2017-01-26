@@ -1,6 +1,6 @@
 // Suppress some compilation warning messages (only for VC++ users)
 #define _CRT_SECURE_NO_DEPRECATE
-
+using namespace std;
 // Shortcuts for "common" data types in contests
 typedef long long ll;
 typedef unsigned long long ull;
