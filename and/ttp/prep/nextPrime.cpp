@@ -3,21 +3,6 @@
 #include <math.h>
 typedef unsigned long long ll;
 using namespace std;
-bool prime(ll n);
-
-int main(){
-	int t;
-	scanf("%d" ,&t);
-	while(t--){
-		ll n;
-		scanf("%llu", &n);
-		ll k = n;
-		while(!prime(k)){
-			k++;
-		}
-		printf("%llu\n", k);
-	}
-}
 
 inline bool prime(ll n){
 	if(n==2){
@@ -34,3 +19,19 @@ inline bool prime(ll n){
 	}
 	return true;
 }
+
+int main(){
+	int t;
+	scanf("%d" ,&t);
+	while(t--){
+		ll n;
+		scanf("%llu", &n);
+		ll k = n;
+		while(!prime(k)){
+			k++;
+		}
+		printf("%llu\n", k);
+	}
+}
+
+
