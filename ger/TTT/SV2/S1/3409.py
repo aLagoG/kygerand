@@ -1,0 +1,1 @@
+print int(input()*0.35*0.1)
