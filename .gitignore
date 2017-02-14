@@ -10,4 +10,4 @@ nbproject/
 manifest.mf
 build.xml
 *.out
-in*
+*.in
