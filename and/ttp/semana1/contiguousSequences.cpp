@@ -39,7 +39,7 @@ int main(){
 	scanf("%d",&t);
 	while(t--){
 		ll a,b;
-		scanf("%llu %llu", &a, &b);
+		scanf("%lld %lld", &a, &b);
 		printf("%lld\n",maxPoints(a,b));
 	}
 }

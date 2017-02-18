@@ -27,7 +27,6 @@ uint getChildren(uint n, uint doNot){
 inline uint searchDP(uint a, uint b){
 	return getChildren(a,b)*getChildren(b,a);
 }
-
 int main(){
 	int t;
 	scanf("%d",&t);
