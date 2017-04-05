@@ -1,5 +1,8 @@
 #include <stdio.h>
 #include <string.h>
+#include <set>
+
+using namespace std;
 
 #define NP 78498
 #define MAXP 999999
@@ -27,7 +30,6 @@ int main(){
 		ull n, f;
 		scanf("%llu",&n);
 		f = n;
-		ull n2 = 2*n;
 		ull sum = 1;
 		for(int i=0;f>1&&i<NP;i++){
 			ull last = 1;
@@ -38,16 +40,17 @@ int main(){
 				f /= primes[i];
 			}
 			sum *= local;
-			if(sum>n2){
-				printf("abundant\n");
-				break;
-			}
+		}
+		if(f!=1){
+			sum *= f+1;
 		}
 		sum -= n;
 		if(sum<n){
 			printf("deficient\n");
 		}else if(sum==n){
 			printf("perfect\n");
+		}else{
+			printf("abundant\n");
 		}
 	}
 }

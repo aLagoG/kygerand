@@ -4,23 +4,28 @@
 
 #define M 5001
 #define MD 1000000007
+#define NP 20
 
 typedef unsigned long long llu;
 
 int div[M];
+int primes[] = {2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71};
 
 int divisores(int n){
-	int cnt = 1;
-	int sqr = sqrt(n)+1;
-	for(int i=2;i<sqr;i++){
-		if(n%i==0){
+	int sum = 1;
+	int sqr = sqrt(n);
+	for(int i=0;primes[i]<=sqr;i++){
+		int cnt = 0;
+		while(n%primes[i]==0){
 			cnt++;
-			if(i*i!=n){
-				cnt++;
-			}
+			n /= primes[i];
 		}
+		sum *= cnt+1;
 	}
-	return cnt;
+	if(n!=1){
+		sum <<= 1;
+	}
+	return sum-1;
 }
 
 int main(){
@@ -35,7 +40,6 @@ int main(){
 			if(!div[i]){
 				div[i] = divisores(i);
 			}
-			// printf("--%d %d--\n", i,div[i]);
 			if(div[i]>k){
 				con += k;
 				opc *= div[i];
