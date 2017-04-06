@@ -20,7 +20,7 @@ int main(){
 
 	//printf("%d\n", n);
 
-	//from number to digits
+	//from number to digits.
 	vector<char> res;
 	while(n > 0){
 		res.insert(res.begin(), digitize(n % by));
