@@ -1,0 +1,1 @@
+print "{0:o}".format((2**(2*input()))-1)
