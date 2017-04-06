@@ -9,7 +9,7 @@ using namespace std;
 
 int M = 78498;
 
-ll primes[78498]; //78950
+ll primes[78498];
 
 int N = 1000001;
 
