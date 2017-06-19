@@ -15,3 +15,4 @@ build.xml
 *.log
 in
 out
+*.sublime-*
