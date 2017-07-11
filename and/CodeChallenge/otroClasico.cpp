@@ -12,23 +12,24 @@ typedef unsigned long long ll;
 ll primes[N];
 ll max = M;
 ll n;
-array<bool,N> arr;
+array<bool, N> arr;
 
-void cribaE(){
-	ll p = 2;
-	ll c = 0;
-	while(p<N&&c<n){
-		primes[c++] = p;
-		// printf("%llu\n",primes[c-1]);
-		for(ll i=p;i<N;i+=p){
-			arr[i] = true;
-		}
-		while(p<N&&arr[++p]);
-	}
+void cribaE() {
+    ll p = 2;
+    ll c = 0;
+    while (p < N && c < n) {
+        primes[c++] = p;
+        // printf("%llu\n",primes[c-1]);
+        for (ll i = p; i < N; i += p) {
+            arr[i] = true;
+        }
+        while (p < N && arr[++p])
+            ;
+    }
 }
 
-int main(){
-	scanf("%llu",&n);
-	cribaE();
-	printf("%llu\n",primes[n-1]);
+int main() {
+    scanf("%llu", &n);
+    cribaE();
+    printf("%llu\n", primes[n - 1]);
 }

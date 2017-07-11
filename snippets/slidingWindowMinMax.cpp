@@ -1,12 +1,12 @@
-//sliding window min and max O(n)
+// sliding window min and max O(n)
 
-#include<queue>
+#include <queue>
 
-int arr[]; //arreglo de valores
-int n; //tamaño del arreglo
-int w; //tamaño de la ventana
+int arr[];  // arreglo de valores
+int n;      // tamaño del arreglo
+int w;      // tamaño de la ventana
 
-//G.front = max, S.front = min
+// G.front = max, S.front = min
 deque<int> S(w), G(w);
 
 // Process first window of size w
@@ -24,13 +24,12 @@ for (i = 0; i < w; i++) {
     S.push_back(i);
 }
 
-//max and min of first window
+// max and min of first window
 int max = arr[G.front()];
 int min = arr[S.front()];
 
 // Process rest of the Array elements
 for (; i < n; i++) {
-
     while (!S.empty() && S.front() <= i - w) {
         S.pop_front();
     }
