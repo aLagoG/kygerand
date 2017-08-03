@@ -11,7 +11,6 @@ manifest.mf
 build.xml
 *.out
 *.in
-*.pdf
 *.log
 in
 out
