@@ -1,10 +1,11 @@
 #include<iostream>
 #include<string>
 #include<unordered_map>
+
 using namespace std;
 
-typedef std::unordered_map<std::string,int> strIntMap;
-typedef std::unordered_map<int,std::string> intStrMap;
+typedef unordered_map<string,int> strIntMap;
+typedef unordered_map<int,string> intStrMap;
 
 strIntMap months ({
 		{"January", 0},
