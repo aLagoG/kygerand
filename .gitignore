@@ -9,7 +9,7 @@ build/
 nbproject/
 manifest.mf
 build.xml
-*.out
+*.out*
 *.in
 *.log
 in
