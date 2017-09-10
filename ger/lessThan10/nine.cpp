@@ -9,9 +9,14 @@ int digitize(char c){ return  c < 9 ? c+48 : c+55; }
 int main(){
 	int len, bx, by;
 
+	printf("digit length>\n");
 	scanf("%d", &len);
+
+	printf("number>\n");
 	char a[len];
 	scanf("%s", a);
+
+	printf("base x base y>\n");
 	scanf("%d %d", &bx, &by);
 	
 	//from digits to number
@@ -28,4 +33,5 @@ int main(){
 	}
 
 	for(auto c: res) printf("%c", c);
+	printf("\n");
 }
