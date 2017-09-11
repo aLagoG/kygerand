@@ -1,5 +1,5 @@
 for t in range(int(input())):
-    line = [ int(n) for n in input().split(" ")]
+    line = [int(n) for n in input().split(" ")]
     mx = max(line)
     cnt = 0
     flag = False
@@ -13,4 +13,3 @@ for t in range(int(input())):
                 flag = True
                 cnt += 1
     print(cnt)
-    
