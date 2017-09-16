@@ -1,9 +1,0 @@
-#include <stdio.h>
-
-int main() {
-    int i;
-    scanf("%d", &t);
-    while(t--){
-        
-    }
-}

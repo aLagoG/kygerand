@@ -7,7 +7,7 @@ using namespace std;
 int main() {
     int t;
     scanf("%d", &t);
-    while(t--){
+    while (t--) {
         char w1[4];
         char w2[4];
         // char res[4];
