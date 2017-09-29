@@ -1,0 +1,12 @@
+Output for mada adam
+[
+i i i i o o o o
+i i o i o i o o
+]
+Output for long nice
+[
+]
+Output for eric rice
+[
+i i o i o i o o
+]

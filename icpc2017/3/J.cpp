@@ -32,7 +32,7 @@ int main() {
                             stck.pop();
                         }else{
                             valid = false;
-                            break; 
+                            break;
                         }
                     }else{
                         valid = false;
