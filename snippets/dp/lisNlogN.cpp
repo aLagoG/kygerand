@@ -5,6 +5,9 @@ using namespace std;
 
 //Longest Increasing Subsequence O(nLogn)
 //RETURNS THE JUST LENGTH
+//I DONT UNDERSTAND THIS YET GODDAMMIT I HATE MYSELF
+//WUBBA LUBBA DUB DUB
+
 
 int CeilIndex(vector<int> &v, int l, int r, int key) {
     while (r-l > 1) {
