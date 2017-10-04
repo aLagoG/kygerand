@@ -4,6 +4,7 @@
 using namespace std;
 
 //Longest Bitonic Subsequence O(n^2)
+//RETURNS JUST THE LENGTH
 
 int bitonic(int arr[],int n){
 
