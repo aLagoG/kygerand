@@ -15,8 +15,24 @@ class AdjListGraph:
 
     def addEdge(self, a, b):
         self.adjacencyList[a].append(b)
-        self.E += 1
-    
+        self.E += 1        
+
+    def topSort(self):
+
+        def topSortR(v, visited, answ):
+            visited[v] = True
+            for vertex in self.adjacencyList[v]:
+                if not visited[vertex]: topSortR(vertex, visited, answ)
+            answ.append(v)
+
+        visited = [False for i in self.adjacencyList]
+        answer = []
+
+        for v in self.adjacencyList:
+            if not visited[v]: topSortR(v, visited, answer)
+
+        return answer
+
     def dijkstra(self, start, target):
         def decKey(heap, weights, v, newWeight):
             heap[ bisect.bisect_left(heap, (weights[v], v) ) ] = (newWeight, v)
@@ -65,15 +81,17 @@ class AdjListGraph:
             
 
     #dft implementation
-    def dftR(self, v, visited, answer):
-        answer.append(v)
-        visited[v] = True
-
-        for to in self.adjacencyList[v]:
-            if not visited[to]:
-                self.dftR(to, visited, answer)
-        
     def dft(self, start):
+
+        def dftR(self, v, visited, answer):
+            answer.append(v)
+            visited[v] = True
+
+            for to in self.adjacencyList[v]:
+                if not visited[to]:
+                    self.dftR(to, visited, answer)
+
+
         visited = defaultdict(bool)
         answer = []
         self.dftR(start, visited, answer)
