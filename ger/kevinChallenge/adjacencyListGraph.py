@@ -12,7 +12,6 @@ class AdjListGraph:
             for frm, to in itrble:
                 self.adjacencyList[frm].append(to)
 
-
     def addEdge(self, a, b):
         self.adjacencyList[a].append(b)
         self.E += 1        
