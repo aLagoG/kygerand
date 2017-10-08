@@ -40,8 +40,6 @@ int editDistance(string str1, string str2) {
 int main(){
     string str1 = "sunday";
     string str2 = "saturday";
-
     printf("%d\n",editDistance(str1, str2));
-
     return 0;
 }
