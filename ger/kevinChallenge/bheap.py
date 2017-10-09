@@ -64,9 +64,9 @@ class bheap:
         return self.heap[0]
         
 
-# heap = bheap(key=lambda x: x[1])
-# for k in range(10): heap.insert([0, k])
-# heap.insert([0, -1])
-# print(heap.heap)
-# heap.extract_min()
-# print(heap.heap)
+heap = bheap(key=lambda x: x[1])
+for k in range(10): heap.insert([0, k])
+heap.insert([0, -1])
+print(heap.heap)
+heap.extract_min()
+print(heap.heap)
