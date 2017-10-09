@@ -25,7 +25,7 @@ int lps(char *s) {
         for(int i=0;i<strlen(s)-1;i++){ //Start value of 0-2, 1-3... etc
             int j=i+l-1;  //Calculate i to j for 0-2, 1-3... etc
             if (s[i] == s[j] && l == 2){  //If length is 2 and same characters, ONLY INCREMNET BY 1
-              L[i][j] = 2;
+              arr[i][j] = 2;
             }if(s[i]==s[j]){  //Else, ALWAYS INCREMENT BY 2 with the value diagonal, down to the left
                   arr[i][j]=arr[i+1][j-1]+2;
             }else{  //Else, MAX OF BELOW AND TO THE LEFT
