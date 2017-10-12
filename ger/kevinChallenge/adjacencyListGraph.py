@@ -3,6 +3,7 @@ from collections import deque
 import heapq
 import math
 import biscet
+import bheap #my own binary heap
 
 class AdjListGraph:
     def __init__(self, itrble=None):
@@ -93,7 +94,7 @@ class AdjListGraph:
 
         visited = defaultdict(bool)
         answer = []
-        self.dftR(start, visited, answer)
+        dftR(start, visited, answer)
         return answer
         
 
