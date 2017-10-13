@@ -1,5 +1,5 @@
 This checks a graph to see if it has a cycle using df traversal.
-
+It is part of my adjacency list graph class
 ```python
     def isCyclic(self):
 
@@ -22,4 +22,4 @@ This checks a graph to see if it has a cycle using df traversal.
             if not visited[vertex]:
                 if isCyclicR(vertex, visited, stck): return True
             return False
-``à
+```
