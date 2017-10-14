@@ -1,9 +1,8 @@
 from collections import defaultdict
 from collections import deque
-import heapq
 import math
 import biscet
-import bheap #my own binary heap
+import pqueue #my own priotity queue using my heap
 
 class AdjListGraph:
     def __init__(self, itrble=None):
@@ -32,8 +31,8 @@ class AdjListGraph:
             if not visited[v]: topSortR(v, visited, answer)
 
         return answer
-
-    def dijkstra(self, start, target):
+'''
+    def dijkstra(self, start, target): # n^2 complexity 
         def decKey(heap, weights, v, newWeight):
             heap[ bisect.bisect_left(heap, (weights[v], v) ) ] = (newWeight, v)
             weights[v] = weight
@@ -56,6 +55,22 @@ class AdjListGraph:
             for v in self.adjacencyList[u]:
                 if inheap[v] and wu + 1 < weights[v]:
                     decKey(heap, weights, u, weights[v]+1)
+        return path
+'''
+    def dijkstra(self, start, target): # O(nlog(n))
+        V = len(self.adjacencyList)
+        path = set()
+        queue = pqueue(key=lambda x: x[1])
+        for v in self.adjacencyList: queue.insert((v, math.inf if v != start else 0))
+
+        while len(path) != V:
+            u, cost_here = queue.extract_minn()
+            path.add(u)
+            if u == target: break
+            for v in self.adjacencyList[u]:
+                if v not in path and cost_here < queue.get(v)[1]:
+                    queue.update_key(cost_here + 1)
+
         return path
 
     #bft implementation

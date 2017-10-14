@@ -1,10 +1,6 @@
 This algorithm is the actual proof that the 3-SAT problem is NP-complete, it converts the boolean circuit of a K-SAT problem into the input of a 3-SAT problem. It reads .cnf files.
 
 ```python
-from collections import defaultdict
-import math
-
-
 def makeVariables(n):
     toRet = []
     global top

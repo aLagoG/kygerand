@@ -25,3 +25,6 @@ class pqueue(bheap):
         
         if value < old_value: self.sift_up(self.keys[key])
         elif value > old_value: self.sift_down(self.keys[key])
+
+    def get(self, key):
+        return self.heap[self.keys[key]]
