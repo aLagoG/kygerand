@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 num = int(input())
-heights = [int(x) for x in input().split()]
-heights.append(0)
-heights.insert(0, 0)
+heights = [0] + [int(x) for x in input().split()] + [0]
 cnt = 0
 up = heights[0] < heights[1]
 for i in range(num + 1):
