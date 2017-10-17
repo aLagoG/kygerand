@@ -4,6 +4,7 @@
 using namespace std;
 
 //Longest Increasing Subsequence O(n^2)
+//RETURNS JUST THE LENGTH
 
 int lis(vector<int> &v){
   if (v.size() == 0) return 0;
