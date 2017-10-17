@@ -112,7 +112,7 @@ class AdjListGraph:
         dftR(start, visited, answer)
         return answer
         
-    def isCyclic(self):
+    def is_cyclic(self):
 
         def isCyclicR(self, v, visited, stck):
             stck[v] = True
@@ -133,3 +133,49 @@ class AdjListGraph:
             if not visited[vertex]:
                 if isCyclicR(vertex, visited, stck): return True
             return False
+
+    def path_len(self, start, goal):
+        
+        def path_len_r(node, length, goal, path):
+            
+            length += 1
+            for v in self.adjacencyList[node]:
+
+                if v in visited: continue
+                
+                if length <= goal: return True
+
+                visited[node] = True
+
+                if path_len_r(v, length, goal, path):
+                    return True
+                
+                path[v] = False
+            
+            length -= 1
+
+             return False
+
+
+        
+        visited = {}
+        return path_len_r(start, visited, 0, goal, path)
+        
+
+    def has_path(self, start, targer):
+        visited = {node:False for node in self.adjacencyList}
+        queue = deque()
+        queue.append(start)
+        visited[start] = True 
+
+        while queue:
+            n = queue.popleft()
+
+            if n == d: return True
+
+            for adj in self.adjacencyList[n]:
+                if visited[adj] == False:
+                    queue.append(adj)
+                    visited[edj] = True
+            
+        return False

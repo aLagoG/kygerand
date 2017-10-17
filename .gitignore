@@ -15,3 +15,5 @@ build.xml
 in
 out
 *.sublime-*
+__pycache__
+*.pyc
