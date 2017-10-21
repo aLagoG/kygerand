@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#define N 30
+#define N 8
 
 using namespace std;
 
