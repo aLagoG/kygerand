@@ -18,7 +18,7 @@ b, bAngles = [ [int(i) for i in input().split(" ")] for j in range(v) ], deque([
 eq = True
 try:
     bAngles.rotate(aAngles.index(bAngles[0]))
-except:
+except ValueError:
     eq = False
 
 if eq:
