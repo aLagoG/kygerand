@@ -39,7 +39,6 @@ class bheap:
         
         self.hswap(cur_idx, min_child_idx)
         self.sift_down(min_child_idx)
-
     
     def insert(self, n):
         self.heap.append(n)
@@ -47,9 +46,9 @@ class bheap:
         self.sift_up(self.max_i)
     
     def extract_min(self):
+        toRet = self.heap[0]
         self.heap[0] = self.heap.pop()
         self.max_i -= 1
-        toRet = self.heap[0]
         self.sift_down(0)
         return toRet
     
@@ -68,5 +67,5 @@ class bheap:
 # for k in range(10): heap.insert([0, k])
 # heap.insert([0, -1])
 # print(heap.heap)
-# heap.extract_min()
+# print(heap.extract_min())
 # print(heap.heap)

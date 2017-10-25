@@ -1,8 +1,8 @@
 from collections import defaultdict
 from collections import deque
-import heapq
 import math
 import biscet
+import pqueue #my own priotity queue using my heap
 
 class AdjListGraph:
     def __init__(self, itrble=None):
@@ -31,8 +31,8 @@ class AdjListGraph:
             if not visited[v]: topSortR(v, visited, answer)
 
         return answer
-
-    def dijkstra(self, start, target):
+'''
+    def dijkstra(self, start, target): # n^2 complexity 
         def decKey(heap, weights, v, newWeight):
             heap[ bisect.bisect_left(heap, (weights[v], v) ) ] = (newWeight, v)
             weights[v] = weight
@@ -56,6 +56,22 @@ class AdjListGraph:
                 if inheap[v] and wu + 1 < weights[v]:
                     decKey(heap, weights, u, weights[v]+1)
         return path
+'''
+    def dijkstra(self, start, target): # O(nlog(n))
+        V = len(self.adjacencyList)
+        path = set()
+        queue = pqueue(key=lambda x: x[1])
+        for v in self.adjacencyList: queue.insert((v, math.inf if v != start else 0))
+
+        while len(path) != V:
+            u, cost_here = queue.extract_minn()
+            path.add(u)
+            if u == target: break
+            for v in self.adjacencyList[u]:
+                if v not in path and cost_here < queue.get(v)[1]:
+                    queue.update_key(cost_here + 1)
+
+        return path
 
     #bft implementation
     def bft(self, start):
@@ -78,7 +94,7 @@ class AdjListGraph:
                 
         return answer
             
-
+    
     #dft implementation
     def dft(self, start):
 
@@ -93,8 +109,73 @@ class AdjListGraph:
 
         visited = defaultdict(bool)
         answer = []
-        self.dftR(start, visited, answer)
+        dftR(start, visited, answer)
         return answer
         
+    def is_cyclic(self):
 
-    
+        def isCyclicR(self, v, visited, stck):
+            stck[v] = True
+            visited[v] = True
+
+            for to in self.adjacencyList[v]:
+                if not visited[to]:
+                    if isCyclicR(to, visited, answer): return True
+                    elif stck[visited]: return True
+                
+            stck[v] = False
+            return False
+
+        stck = {i:False for i in self.adjacencyList}
+        visited = {i:False for i in self.adjacencyList}
+
+        for vertex in self.adjacencyList:
+            if not visited[vertex]:
+                if isCyclicR(vertex, visited, stck): return True
+            return False
+
+    def path_len(self, start, goal):
+        
+        def path_len_r(node, length, goal, path):
+            
+            length += 1
+            for v in self.adjacencyList[node]:
+
+                if v in visited: continue
+                
+                if length <= goal: return True
+
+                visited[node] = True
+
+                if path_len_r(v, length, goal, path):
+                    return True
+                
+                path[v] = False
+            
+            length -= 1
+
+             return False
+
+
+        
+        visited = {}
+        return path_len_r(start, visited, 0, goal, path)
+        
+
+    def has_path(self, start, targer):
+        visited = {node:False for node in self.adjacencyList}
+        queue = deque()
+        queue.append(start)
+        visited[start] = True 
+
+        while queue:
+            n = queue.popleft()
+
+            if n == d: return True
+
+            for adj in self.adjacencyList[n]:
+                if visited[adj] == False:
+                    queue.append(adj)
+                    visited[edj] = True
+            
+        return False
