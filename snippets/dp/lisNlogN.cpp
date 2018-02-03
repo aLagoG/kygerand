@@ -47,3 +47,25 @@ int main() {
     cout << "Length of Longest Increasing Subsequence is " << LongestIncreasingSubsequenceLength(v)<<endl;
    return 0;
 }
+
+
+/*
+and - this code does the exact same but is more concise thanks to the usage of std::set
+
+import <set>
+int LISLength(vector<int> &v) {
+    int n = v.size();
+    set<int> s;
+    for (int i = 0; i < n; i++) {
+        auto res = s.insert(v[i]); //O(log(n))
+        if (res.second) {
+            auto it = res.first;
+            if (++it != s.end()) {
+                s.erase(it); //O(1)
+            }
+        }
+    }
+    return s.size();
+}
+
+*/
