@@ -8,7 +8,7 @@
             "type": "shell",
             "command": "g++-8",
             "args": [
-                "--std=c++11",
+                "--std=c++14",
                 "${file}",
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}.out",

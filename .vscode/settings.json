@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "bitset": "cpp",
+        "set": "cpp",
+        "iterator": "cpp"
+    },
+    "C_Cpp.clang_format_fallbackStyle": "{BasedOnStyle: Google, AllowShortBlocksOnASingleLine: false, AllowShortFunctionsOnASingleLine: Empty, IndentWidth: 4}"
+}
