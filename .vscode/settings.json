@@ -2,7 +2,10 @@
     "files.associations": {
         "bitset": "cpp",
         "set": "cpp",
-        "iterator": "cpp"
+        "iterator": "cpp",
+        "random": "cpp",
+        "valarray": "cpp",
+        "iostream": "cpp"
     },
     "C_Cpp.clang_format_fallbackStyle": "{BasedOnStyle: Google, AllowShortBlocksOnASingleLine: false, AllowShortFunctionsOnASingleLine: Empty, IndentWidth: 4}"
 }

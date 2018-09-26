@@ -18,6 +18,28 @@
                 "kind": "build",
                 "isDefault": true
             }
+        },
+        {
+            "label": "create_in_file",
+            "type": "shell",
+            "command": "touch",
+            "args": [
+                "${fileDirname}/${fileBasenameNoExtension}.in"
+            ],
+            "group": "none",
+            "problemMatcher": []
+        },
+        {
+            "label": "clean_workspace",
+            "type": "shell",
+            "command": "rm",
+            "args": [
+                "-r",
+                "${workspaceRoot}/**/*.out",
+                "${workspaceRoot}/**/*.out.*"
+            ],
+            "group": "none",
+            "problemMatcher": []
         }
     ]
 }
