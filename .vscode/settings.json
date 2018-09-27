@@ -5,7 +5,9 @@
         "iterator": "cpp",
         "random": "cpp",
         "valarray": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "regex": "cpp",
+        "algorithm": "cpp"
     },
     "C_Cpp.clang_format_fallbackStyle": "{BasedOnStyle: Google, AllowShortBlocksOnASingleLine: false, AllowShortFunctionsOnASingleLine: Empty, IndentWidth: 4}"
 }
