@@ -1,0 +1,563 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+1006.py	../ger/TTP/topTecPractice/1006.py	1;"	kind:file	line:1
+1052.py	../ger/TTP/SV2/S1/1052.py	1;"	kind:file	line:1
+1074.py	../ger/TTP/SV2/1074.py	1;"	kind:file	line:1
+1173.py	../and/ttp/2018/semana2/concurso/1173.py	1;"	kind:file	line:1
+1360.py	../and/ttp/2018/semana2/1360.py	1;"	kind:file	line:1
+1551.py	../ger/TTP/SV1/1551.py	1;"	kind:file	line:1
+1561.py	../ger/TTP/SV1/1561.py	1;"	kind:file	line:1
+1862.py	../ger/TTP/SF/1862.py	1;"	kind:file	line:1
+1862_nwtn.py	../ger/TTP/SF/1862_nwtn.py	1;"	kind:file	line:1
+1889.py	../ger/TTP/SV2/1889.py	1;"	kind:file	line:1
+1905.py	../ger/TTP/SV1/1905.py	1;"	kind:file	line:1
+1979.py	../and/ttp/2018/semana2/1979.py	1;"	kind:file	line:1
+2014.py	../ger/TTP/SV1/2014.py	1;"	kind:file	line:1
+2105.py	../ger/TTP/SV3/2105.py	1;"	kind:file	line:1
+2145.py	../ger/TTP/SV2/2145.py	1;"	kind:file	line:1
+2188().py	../ger/TTP/SV1/2188().py	1;"	kind:file	line:1
+2188.py	../ger/TTP/SV1/2188.py	1;"	kind:file	line:1
+2204.py	../ger/TTP/SF/2204.py	1;"	kind:file	line:1
+2227.py	../ger/TTP/SV4/2227.py	1;"	kind:file	line:1
+2333.py	../ger/TTP/SV2/S1/2333.py	1;"	kind:file	line:1
+2409.py	../ger/TTP/SV1/2409.py	1;"	kind:file	line:1
+2430_triangular.py	../ger/TTP/topTecPractice/2430_triangular.py	1;"	kind:file	line:1
+2446.py	../ger/TTP/SV2/S1/2446.py	1;"	kind:file	line:1
+2520.py	../ger/TTP/SV2/S1/2520.py	1;"	kind:file	line:1
+2623.py	../ger/TTP/SV1/2623.py	1;"	kind:file	line:1
+2624.py	../ger/TTP/SV3/2624.py	1;"	kind:file	line:1
+2662.py	../and/ttp/2018/semana1/2662.py	1;"	kind:file	line:1
+2690.py	../ger/TTP/SV3/2690.py	1;"	kind:file	line:1
+2701.py	../ger/TTP/SF/2701.py	1;"	kind:file	line:1
+2709.py	../ger/TTP/SV2/2709.py	1;"	kind:file	line:1
+2718.py	../ger/TTP/SV4/S3/2718.py	1;"	kind:file	line:1
+2721.py	../ger/TTP/SF/2721.py	1;"	kind:file	line:1
+2789.py	../ger/TTP/SV2/2789.py	1;"	kind:file	line:1
+2799.py	../ger/TTP/SV1/2799.py	1;"	kind:file	line:1
+2858.py	../ger/TTP/SV2/2858.py	1;"	kind:file	line:1
+2938.py	../ger/TTP/SF/2938.py	1;"	kind:file	line:1
+2951.py	../ger/TTP/SV3/2951.py	1;"	kind:file	line:1
+3051.py	../ger/TTP/SV3/S2/3051.py	1;"	kind:file	line:1
+3110.py	../ger/TTP/SV3/3110.py	1;"	kind:file	line:1
+3327.py	../ger/TTP/SV4/3327.py	1;"	kind:file	line:1
+3346.py	../ger/TTP/SV3/S2/3346.py	1;"	kind:file	line:1
+3352.py	../ger/TTP/SV4/3352.py	1;"	kind:file	line:1
+3355.py	../ger/TTP/SV4/3355.py	1;"	kind:file	line:1
+3408.py	../ger/TTP/SV3/S2/3408.py	1;"	kind:file	line:1
+3409.py	../ger/TTP/SV2/S1/3409.py	1;"	kind:file	line:1
+3410.py	../ger/TTP/SV3/S2/3410.py	1;"	kind:file	line:1
+3411.py	../ger/TTP/SV3/S2/3411.py	1;"	kind:file	line:1
+3415.py	../ger/TTP/SV4/S3/3415.py	1;"	kind:file	line:1
+3418.py	../ger/TTP/SV3/S2/3418.py	1;"	kind:file	line:1
+3430.py	../ger/TTP/SV4/S3/3430.py	1;"	kind:file	line:1
+3459.py	../ger/TTP/SV4/3459.py	1;"	kind:file	line:1
+3468.py	../ger/TTP/SV4/S3/3468.py	1;"	kind:file	line:1
+3487.py	../ger/TTP/SV4/3487.py	1;"	kind:file	line:1
+3644.py	../and/ttp/2018/semana1/contest/3644.py	1;"	kind:file	line:1
+3740.py	../ger/TTP/SV4/S3/3740.py	1;"	kind:file	line:1
+3748.py	../ger/TTP/SV3/3748.py	1;"	kind:file	line:1
+A.py	../icpc2017/repechaje/A.py	1;"	kind:file	line:1
+AdjListGraph	../ger/kevinChallenge/adjacencyListGraph.py	/^class AdjListGraph:$/;"	kind:class	line:7
+AdjListGraph	../icpc2017/repechaje/H.py	/^class AdjListGraph:$/;"	kind:class	line:99
+B	../icpc2017/repechaje/B_cases.py	/^def B(s):$/;"	kind:function	line:3
+B.py	../icpc2017/repechaje/B.py	1;"	kind:file	line:1
+B.py	../rpc/1/B.py	1;"	kind:file	line:1
+B_cases.py	../icpc2017/repechaje/B_cases.py	1;"	kind:file	line:1
+BinaryTree	../ger/cci/notes/tree.py	/^class BinaryTree:$/;"	kind:class	line:10
+C.py	../icpc2017/repechaje/C.py	1;"	kind:file	line:1
+D	../ger/TTP/SF/1862_nwtn.py	/^def D(x): return 4*a*(x**3) + 3*b*(x**2) + 2*c*(x) + d$/;"	kind:function	line:3
+E.py	../icpc2017/repechaje/E.py	1;"	kind:file	line:1
+F	../ger/TTP/SF/1862.py	/^def F(x):$/;"	kind:function	line:1
+F	../ger/TTP/SF/1862_nwtn.py	/^def F(x): return a*(x**4)+b*(x**3)+c*(x**2)+d*(x)+e-f$/;"	kind:function	line:2
+Fraction	../ger/TTP/SV3/3748.py	/^from fractions import Fraction$/;"	kind:namespace	line:1
+Fraction	../icpc2017/repechaje/A.py	/^from fractions import Fraction$/;"	kind:namespace	line:2
+G.py	../icpc2017/3/G.py	1;"	kind:file	line:1
+Graph	../and/semana_i2018/dia_4/cthulhu.py	/^class Graph:$/;"	kind:class	line:31
+H.py	../icpc2017/repechaje/H.py	1;"	kind:file	line:1
+I.py	../icpc2018/3/I.py	1;"	kind:file	line:1
+J.py	../icpc2017/repechaje/J.py	1;"	kind:file	line:1
+LinkedList	../ger/cci/notes/linkedList.py	/^class LinkedList:$/;"	kind:class	line:15
+MinHeap	../ger/cci/notes/heap.py	/^class MinHeap: #0 based$/;"	kind:class	line:1
+Node	../ger/cci/notes/linkedList.py	/^class Node:$/;"	kind:class	line:1
+Node	../ger/cci/notes/tree.py	/^class Node:$/;"	kind:class	line:1
+__init__	../and/semana_i2018/dia_4/cthulhu.py	/^    def __init__(self):$/;"	kind:member	line:32
+__init__	../ger/cci/notes/heap.py	/^    def __init__(self):#, itr = None):$/;"	kind:member	line:2
+__init__	../ger/cci/notes/linkedList.py	/^    def __init__(self):$/;"	kind:member	line:2
+__init__	../ger/cci/notes/linkedList.py	/^    def __init__(self, data):$/;"	kind:member	line:6
+__init__	../ger/cci/notes/linkedList.py	/^    def __init__(self, itrbl = None):$/;"	kind:member	line:16
+__init__	../ger/cci/notes/tree.py	/^    def __init__(self, value = None):$/;"	kind:member	line:11
+__init__	../ger/cci/notes/tree.py	/^    def __init__(self, value,  parent = None):$/;"	kind:member	line:2
+__init__	../ger/kevinChallenge/adjacencyListGraph.py	/^    def __init__(self, itrble=None):$/;"	kind:member	line:8
+__init__	../ger/kevinChallenge/bheap.py	/^    def __init__(self, key=lambda x:x):$/;"	kind:member	line:3
+__init__	../ger/kevinChallenge/edgeListWeightedGraph.py	/^    def __init__(self):$/;"	kind:member	line:3
+__init__	../ger/kevinChallenge/pqueue.py	/^    def __init__(self, key=lambda x: x):$/;"	kind:member	line:4
+__init__	../icpc2017/repechaje/H.py	/^    def __init__(self):$/;"	kind:member	line:100
+__init__	../icpc2017/repechaje/H.py	/^    def __init__(self, key=lambda x: x):$/;"	kind:member	line:70
+__init__	../icpc2017/repechaje/H.py	/^    def __init__(self, key=lambda x:x):$/;"	kind:member	line:5
+__len__	../icpc2017/repechaje/H.py	/^    def __len__(self): return len(self.heap)$/;"	kind:member	line:67
+__repr__	../ger/cci/notes/linkedList.py	/^    __repr__ = __str__$/;"	kind:variable	line:13
+__repr__	../ger/cci/notes/linkedList.py	/^    __repr__ = __str__$/;"	kind:variable	line:64
+__str__	../ger/cci/notes/linkedList.py	/^    def __str__(self):$/;"	kind:member	line:10
+__str__	../ger/cci/notes/linkedList.py	/^    def __str__(self):$/;"	kind:member	line:54
+__str__	../ger/cci/notes/tree.py	/^    def __str__(self):$/;"	kind:member	line:7
+a	../ger/TTP/SV1/2799.py	/^a = int(raw_input())$/;"	kind:variable	line:1
+a	../ger/TTP/SV4/S3/2718.py	/^a = [int(i) for i in raw_input().split(":")]$/;"	kind:variable	line:1
+a.py	../rpc/1/a.py	1;"	kind:file	line:1
+ac	../and/codejam/2018/saving.py	/^    ac = 0$/;"	kind:variable	line:8
+add	../ger/TTP/SF/2701.py	/^		add = min(c, 26)$/;"	kind:variable	line:10
+add	../ger/TTP/SF/2701.py	/^		add = min(c, 26)$/;"	kind:variable	line:18
+add	../ger/TTP/SV4/S3/3415.py	/^	add = 0$/;"	kind:variable	line:3
+add	../ger/TTP/SV4/S3/3415.py	/^	add = sum(imei)$/;"	kind:variable	line:8
+add	../ger/cci/notes/linkedList.py	/^    def add(self, val): #constant$/;"	kind:member	line:23
+add	../ger/cci/notes/tree.py	/^    def add(self, value):$/;"	kind:member	line:14
+addEdge	../and/semana_i2018/dia_4/cthulhu.py	/^    def addEdge(self, a, b):$/;"	kind:member	line:36
+addEdge	../ger/kevinChallenge/adjacencyListGraph.py	/^    def addEdge(self, a, b):$/;"	kind:member	line:15
+addEdge	../ger/kevinChallenge/edgeListWeightedGraph.py	/^    def addEdge(self, a, b, w):$/;"	kind:member	line:7
+addEdge	../icpc2017/repechaje/H.py	/^    def addEdge(self, a, b, w):$/;"	kind:member	line:104
+adjacencyListGraph.py	../ger/kevinChallenge/adjacencyListGraph.py	1;"	kind:file	line:1
+al	../ger/TTP/SV2/S1/2520.py	/^	al = [str(i) for i in range(1,N+1)]$/;"	kind:variable	line:3
+all_iters	../ger/kevinChallenge/autoEssay.py	/^def all_iters():$/;"	kind:function	line:61
+amusement.py	../rpc/2/amusement.py	1;"	kind:file	line:1
+angle	../rpc/1/i.py	/^def angle(p0,p1,c):$/;"	kind:function	line:4
+answer	../icpc2018/3/I.py	/^        answer = t+1$/;"	kind:variable	line:19
+answer	../icpc2018/3/I.py	/^    answer = fn()$/;"	kind:variable	line:38
+answer	../icpc2018/3/I.py	/^answer = -1$/;"	kind:variable	line:8
+arr	../icpc2017/repechaje/B_cases.py	/^arr = []$/;"	kind:variable	line:23
+arr	../microsoft2017/transpose.py	/^    arr = []$/;"	kind:variable	line:4
+autoEssay.py	../ger/kevinChallenge/autoEssay.py	1;"	kind:file	line:1
+avrg	../microsoft2017/consol.py	/^avrg = 0$/;"	kind:variable	line:2
+awords	../ger/TTP/SV4/S3/3468.py	/^awords = {}$/;"	kind:variable	line:1
+b	../ger/TTP/SV1/2799.py	/^b = int(raw_input())$/;"	kind:variable	line:2
+b	../ger/TTP/SV4/S3/2718.py	/^b = [int(i) for i in raw_input().split(":")]$/;"	kind:variable	line:2
+bells	../ger/TTP/SV3/S2/3346.py	/^bells = [int(i) for i in raw_input().split()]$/;"	kind:variable	line:3
+bf	../ger/cci/notes/tree.py	/^    def bf(self, node):$/;"	kind:member	line:32
+bft	../ger/kevinChallenge/adjacencyListGraph.py	/^    def bft(self, start):$/;"	kind:member	line:77
+bheap	../ger/kevinChallenge/bheap.py	/^class bheap:$/;"	kind:class	line:2
+bheap	../ger/kevinChallenge/pqueue.py	/^from bheap import bheap$/;"	kind:namespace	line:1
+bheap	../icpc2017/repechaje/H.py	/^class bheap:$/;"	kind:class	line:4
+bheap.py	../ger/kevinChallenge/bheap.py	1;"	kind:file	line:1
+bianka	../ger/TTP/SV2/S1/2446.py	/^bianka = scoreBianka(bianka)$/;"	kind:variable	line:30
+binary	../ger/TTP/SV2/2858.py	/^		binary = ""$/;"	kind:variable	line:6
+biscet	../ger/kevinChallenge/adjacencyListGraph.py	/^import biscet$/;"	kind:namespace	line:4
+bisect	../ger/TTP/SV1/1561.py	/^import bisect$/;"	kind:namespace	line:2
+bisect	../ger/TTP/SV3/S2/3346.py	/^import bisect$/;"	kind:namespace	line:1
+bisect_right	../rpc/1/B.py	/^from bisect import bisect_right$/;"	kind:namespace	line:1
+board	../ger/TTP/SV4/3487.py	/^board = read()$/;"	kind:variable	line:80
+boxes.py	../microsoft2017/boxes.py	1;"	kind:file	line:1
+c	../ger/TTP/SF/2701.py	/^c = half1$/;"	kind:variable	line:7
+c	../ger/TTP/SF/2701.py	/^c = half2$/;"	kind:variable	line:15
+c	../ger/TTP/SV1/2799.py	/^c = int(raw_input())$/;"	kind:variable	line:3
+c	../ger/TTP/SV2/1889.py	/^c = []$/;"	kind:variable	line:2
+c	../ger/TTP/SV2/2145.py	/^	c = 0$/;"	kind:variable	line:4
+c	../ger/TTP/SV2/untitled.py	/^	c = 0$/;"	kind:variable	line:4
+c	../ger/TTP/SV4/3355.py	/^c = 0$/;"	kind:variable	line:14
+candidate	../ger/TTP/SV2/S1/2333.py	/^            candidate = primes[i]$/;"	kind:variable	line:40
+cards	../ger/TTP/SF/2721.py	/^cards = [int(i) for i in raw_input().split()]$/;"	kind:variable	line:2
+case	../ger/TTP/SV1/2014.py	/^case = 1$/;"	kind:variable	line:1
+ceil	../and/codejam/2018/saving.py	/^from math import ceil$/;"	kind:namespace	line:1
+changed	../microsoft2017/matrix.py	/^                changed = True$/;"	kind:variable	line:45
+changed	../microsoft2017/matrix.py	/^    changed = False$/;"	kind:variable	line:39
+chapters	../ger/TTP/SV2/2709.py	/^chapters = range(1,input()+1)$/;"	kind:variable	line:1
+chessboard.py	../rpc/2/chessboard.py	1;"	kind:file	line:1
+chests	../rpc/1/B.py	/^chests = sorted([int(i) for i in input().split(" ")])$/;"	kind:variable	line:4
+cities	../ger/TTP/SV3/2624.py	/^	cities = [int(i) for i in raw_input().split()]$/;"	kind:variable	line:3
+cnt	../and/ttp/2018/semana1/contest/3644.py	/^    cnt = 0$/;"	kind:variable	line:10
+cnt	../icpc2017/3/G.py	/^    cnt = 0$/;"	kind:variable	line:4
+cnt	../rpc/1/h.py	/^cnt = 0$/;"	kind:variable	line:4
+cnt	../rpc/2/monsters.py	/^    cnt = 0$/;"	kind:variable	line:9
+columns	../ger/TTP/SV4/3487.py	/^columns = [[False for i in xrange(11)] for j in xrange(10)]$/;"	kind:variable	line:78
+consol.py	../microsoft2017/consol.py	1;"	kind:file	line:1
+construct	../ger/kevinChallenge/autoEssay.py	/^def construct(probs):$/;"	kind:function	line:46
+count	../ger/TTP/SV3/2105.py	/^count = 0$/;"	kind:variable	line:21
+count	../rpc/1/B.py	/^    count = bisect_right(pirates, chests[i], lo=i) - i$/;"	kind:variable	line:9
+cthulhu.py	../and/semana_i2018/dia_4/cthulhu.py	1;"	kind:file	line:1
+cur	../ger/TTP/SF/2721.py	/^	cur = cards[0]$/;"	kind:variable	line:6
+current	../icpc2018/3/I.py	/^current = 0$/;"	kind:variable	line:7
+d	../and/ttp/2018/semana2/1979.py	/^d = int((end-start).total_seconds()\/\/60)$/;"	kind:variable	line:7
+dates	../ger/lessThan10/five.py	/^dates = []$/;"	kind:variable	line:2
+datetime	../and/ttp/2018/semana2/1979.py	/^from datetime import datetime, timedelta$/;"	kind:namespace	line:2
+days	../ger/TTP/SV3/2624.py	/^	days = [int(i) for i in raw_input().split()][0]$/;"	kind:variable	line:2
+daysUsed	../ger/TTP/SV3/2624.py	/^	daysUsed = 0$/;"	kind:variable	line:6
+defaultdict	../and/ttp/2018/semana1/2662.py	/^from collections import defaultdict$/;"	kind:namespace	line:1
+defaultdict	../ger/kevinChallenge/adjacencyListGraph.py	/^from collections import defaultdict$/;"	kind:namespace	line:1
+defaultdict	../icpc2017/repechaje/B.py	/^from collections import deque, defaultdict$/;"	kind:namespace	line:2
+defaultdict	../icpc2017/repechaje/B_cases.py	/^from collections import deque, defaultdict$/;"	kind:namespace	line:1
+defaultdict	../icpc2017/repechaje/H.py	/^from collections import defaultdict$/;"	kind:namespace	line:1
+defaultdict	../rpc/2/power.py	/^from collections import defaultdict$/;"	kind:namespace	line:2
+deque	../ger/kevinChallenge/adjacencyListGraph.py	/^from collections import deque$/;"	kind:namespace	line:2
+deque	../icpc2017/repechaje/B.py	/^from collections import deque, defaultdict$/;"	kind:namespace	line:2
+deque	../icpc2017/repechaje/B_cases.py	/^from collections import deque, defaultdict$/;"	kind:namespace	line:1
+dft	../ger/kevinChallenge/adjacencyListGraph.py	/^    def dft(self, start):$/;"	kind:member	line:99
+dftR	../ger/kevinChallenge/adjacencyListGraph.py	/^        def dftR(self, v, visited, answer):$/;"	kind:function	line:101
+die	../microsoft2017/matrix.py	/^def die(i, j):$/;"	kind:function	line:1
+dif	../and/codejam/2018/saving.py	/^        dif = ac - p$/;"	kind:variable	line:20
+diff	../ger/TTP/SV4/S3/2718.py	/^diff = sum(a) - sum(b)$/;"	kind:variable	line:7
+diff	../microsoft2017/packing.py	/^diff = out_count - orig_count$/;"	kind:variable	line:30
+diff_empty	../microsoft2017/packing.py	/^diff_empty = out_empty - empty_count$/;"	kind:variable	line:32
+dijkstra	../ger/kevinChallenge/adjacencyListGraph.py	/^    def dijkstra(self, start, target): # O(nlog(n))$/;"	kind:member	line:60
+dijkstra	../icpc2017/repechaje/H.py	/^    def dijkstra(self, start, target): # O(nlog(n))$/;"	kind:member	line:108
+distance	../ger/TTP/SV1/2014.py	/^	distance = int(line[1])$/;"	kind:variable	line:4
+dists	../microsoft2017/pokemonGo.py	/^dists = []$/;"	kind:variable	line:6
+done	../icpc2017/repechaje/J.py	/^done = False$/;"	kind:variable	line:11
+dst	../rpc/2/amusement.py	/^    dst = lst[-1] - lst[-2]$/;"	kind:variable	line:12
+edgeListGraph	../ger/kevinChallenge/edgeListWeightedGraph.py	/^class edgeListGraph:$/;"	kind:class	line:2
+edgeListWeightedGraph.py	../ger/kevinChallenge/edgeListWeightedGraph.py	1;"	kind:file	line:1
+empty_count	../microsoft2017/packing.py	/^empty_count = 0$/;"	kind:variable	line:7
+end	../and/ttp/2018/semana2/1979.py	/^end = datetime(2011,11,d,h,m)$/;"	kind:variable	line:6
+endstr	../ger/TTP/SV1/2014.py	/^	endstr = ""$/;"	kind:variable	line:28
+eq	../rpc/1/i.py	/^            eq = False$/;"	kind:variable	line:27
+eq	../rpc/1/i.py	/^eq = True$/;"	kind:variable	line:18
+extract_min	../ger/kevinChallenge/bheap.py	/^    def extract_min(self):$/;"	kind:member	line:48
+extract_min	../ger/kevinChallenge/pqueue.py	/^    def extract_min(self):$/;"	kind:member	line:18
+extract_min	../icpc2017/repechaje/H.py	/^    def extract_min(self):$/;"	kind:member	line:50
+extract_min	../icpc2017/repechaje/H.py	/^    def extract_min(self):$/;"	kind:member	line:84
+f	../and/ttp/2018/semana1/contest/3644.py	/^        f = math.floor((-1+math.sqrt(1+8*n))\/2)$/;"	kind:variable	line:12
+fact	../ger/TTP/SV4/3327.py	/^fact = [1, 1, 2, 6, 24, 120, 720, 5040, 40320, 362880, 3628800, 39916800, 479001600, 6227020800, 87178291200, 1307674368000, 20922789888000, 355687428096000, 6402373705728000, 121645100408832000, 2432902008176640000]$/;"	kind:variable	line:1
+facts	../icpc2017/repechaje/C.py	/^facts = [1]$/;"	kind:variable	line:2
+fillers	../ger/TTP/SV2/2709.py	/^fillers = [int(i) for i in raw_input().split()]$/;"	kind:variable	line:2
+fillers	../ger/TTP/SV2/S1/2520.py	/^	fillers = [i for i in raw_input().split()]$/;"	kind:variable	line:7
+first	../ger/TTP/SV1/2623.py	/^	first = word[:(len(word)\/2)]$/;"	kind:variable	line:3
+first	../ger/TTP/SV1/2623.py	/^	first = word[:len(word)\/2]$/;"	kind:variable	line:9
+first	../ger/TTP/SV2/S1/2520.py	/^	first = []$/;"	kind:variable	line:10
+first	../ger/TTP/SV2/S1/2520.py	/^	first = [int(i) for i in first]$/;"	kind:variable	line:15
+first	../ger/TTP/SV2/S1/2520.py	/^	first = [str(i) for i in first]$/;"	kind:variable	line:17
+first	../rpc/2/power.py	/^            first = point[:]$/;"	kind:variable	line:28
+first	../rpc/2/power.py	/^    first = [0,0]$/;"	kind:variable	line:23
+five.py	../ger/lessThan10/five.py	1;"	kind:file	line:1
+flag	../icpc2017/3/G.py	/^                flag = False$/;"	kind:variable	line:9
+flag	../icpc2017/3/G.py	/^                flag = True$/;"	kind:variable	line:13
+flag	../icpc2017/3/G.py	/^    flag = False$/;"	kind:variable	line:5
+flipped	../ger/TTP/SV1/2014.py	/^			flipped = flipped + 1$/;"	kind:variable	line:16
+flipped	../ger/TTP/SV1/2014.py	/^			flipped = flipped + 1$/;"	kind:variable	line:24
+flipped	../ger/TTP/SV1/2014.py	/^	flipped = 0$/;"	kind:variable	line:8
+fn	../icpc2018/3/I.py	/^    def fn():$/;"	kind:function	line:25
+found	../ger/TTP/SF/2721.py	/^	found = False$/;"	kind:variable	line:7
+fuchiGraph	../ger/kevinChallenge/edgeListWeightedGraph.py	/^fuchiGraph = edgeListGraph()$/;"	kind:variable	line:38
+g	../and/semana_i2018/dia_4/cthulhu.py	/^g = Graph()$/;"	kind:variable	line:72
+game	../ger/TTP/SV2/S1/2446.py	/^game = {0 : "Rock",$/;"	kind:variable	line:24
+get	../ger/cci/notes/linkedList.py	/^    def get(self, idx): #linear$/;"	kind:member	line:31
+get	../ger/kevinChallenge/pqueue.py	/^    def get(self, key):$/;"	kind:member	line:29
+get	../icpc2017/repechaje/H.py	/^    def get(self, key):$/;"	kind:member	line:95
+getNode	../ger/cci/notes/linkedList.py	/^    def getNode(self, idx): #linear$/;"	kind:member	line:38
+getSet	../and/semana_i2018/dia_4/cthulhu.py	/^        def getSet(v):$/;"	kind:function	line:42
+getSet	../ger/kevinChallenge/edgeListWeightedGraph.py	/^        def getSet(v):$/;"	kind:function	line:14
+graph	../icpc2017/repechaje/H.py	/^    graph = AdjListGraph()$/;"	kind:variable	line:134
+h.py	../rpc/1/h.py	1;"	kind:file	line:1
+hack	../icpc2017/repechaje/B.py	/^            hack = i$/;"	kind:variable	line:25
+hack	../icpc2017/repechaje/B.py	/^    hack = 0$/;"	kind:variable	line:22
+half1	../ger/TTP/SF/2701.py	/^half1 = word - word\/2$/;"	kind:variable	line:4
+half2	../ger/TTP/SF/2701.py	/^half2 = word - (word - word\/2)$/;"	kind:variable	line:5
+has_path	../ger/kevinChallenge/adjacencyListGraph.py	/^    def has_path(self, start, targer):$/;"	kind:member	line:165
+heap	../ger/kevinChallenge/adjacencyListGraph.py	/^import pqueue #my own priotity queue using my heap$/;"	kind:namespace	line:5
+heap.py	../ger/cci/notes/heap.py	1;"	kind:file	line:1
+heights	../rpc/1/h.py	/^heights = [0] + [int(x) for x in input().split()] + [0]$/;"	kind:variable	line:3
+helpful_maths.py	../icpc2019/pre/helpful_maths.py	1;"	kind:file	line:1
+hisTime	../ger/TTP/SV3/3748.py	/^	hisTime = Fraction(d2, v2)$/;"	kind:variable	line:7
+hours	../ger/TTP/SV4/S3/2718.py	/^hours = diff\/3600$/;"	kind:variable	line:9
+hswap	../ger/kevinChallenge/bheap.py	/^    def hswap(self, i, j):$/;"	kind:member	line:12
+hswap	../ger/kevinChallenge/pqueue.py	/^    def hswap(self, i, j):$/;"	kind:member	line:8
+hswap	../icpc2017/repechaje/H.py	/^    def hswap(self, i, j):$/;"	kind:member	line:14
+hswap	../icpc2017/repechaje/H.py	/^    def hswap(self, i, j):$/;"	kind:member	line:74
+i	../ger/TTP/SV2/2858.py	/^i = 0$/;"	kind:variable	line:3
+i	../ger/TTP/SV2/S1/2333.py	/^        i = 0$/;"	kind:variable	line:31
+i	../ger/TTP/SV3/2624.py	/^	i = 0$/;"	kind:variable	line:7
+i	../ger/TTP/topTecPractice/2430_triangular.py	/^i = 0$/;"	kind:variable	line:3
+i	../icpc2019/pre/matrix.py	/^        i = idx$/;"	kind:variable	line:8
+i	../microsoft2017/matrix.py	/^    i = i.rstrip("\\r")$/;"	kind:variable	line:31
+i.py	../rpc/1/i.py	1;"	kind:file	line:1
+idx	../rpc/2/monsters.py	/^            idx = lst[i] - 1$/;"	kind:variable	line:12
+imei	../ger/TTP/SV4/S3/3415.py	/^	imei = [int(i) for i in list(raw_input())]$/;"	kind:variable	line:2
+inNode	../microsoft2017/packing.py	/^        inNode = False$/;"	kind:variable	line:21
+inNode	../microsoft2017/packing.py	/^        inNode = True$/;"	kind:variable	line:16
+inNode	../microsoft2017/packing.py	/^inNode = False$/;"	kind:variable	line:9
+index	../ger/TTP/SV1/2409.py	/^index = abs(numbers[0]-numbers[1])$/;"	kind:variable	line:3
+index	../ger/cci/notes/linkedList.py	/^    def index(self, data): #linear$/;"	kind:member	line:45
+inmatrix	../microsoft2017/matrix.py	/^inmatrix = [] $/;"	kind:variable	line:22
+inp	../icpc2017/repechaje/E.py	/^    inp = input()$/;"	kind:variable	line:5
+insert	../ger/cci/notes/tree.py	/^    def insert(self, node, value):$/;"	kind:member	line:20
+insert	../ger/kevinChallenge/bheap.py	/^    def insert(self, n):$/;"	kind:member	line:43
+insert	../ger/kevinChallenge/pqueue.py	/^    def insert(self, n):$/;"	kind:member	line:12
+insert	../icpc2017/repechaje/H.py	/^    def insert(self, n):$/;"	kind:member	line:45
+insert	../icpc2017/repechaje/H.py	/^    def insert(self, n):$/;"	kind:member	line:78
+intersections	../icpc2017/repechaje/H.py	/^    intersections = int(input())$/;"	kind:variable	line:131
+isCoast	../ger/TTP/SV3/2105.py	/^def isCoast(i, j):$/;"	kind:function	line:1
+isCyclicR	../ger/kevinChallenge/adjacencyListGraph.py	/^        def isCyclicR(self, v, visited, stck):$/;"	kind:function	line:117
+is_cyclic	../ger/kevinChallenge/adjacencyListGraph.py	/^    def is_cyclic(self):$/;"	kind:member	line:115
+itemgetter	../ger/lessThan10/five.py	/^from operator import itemgetter$/;"	kind:namespace	line:1
+itertools	../ger/TTP/SV1/2188().py	/^import itertools$/;"	kind:namespace	line:1
+j	../ger/TTP/SV1/1551.py	/^j = 1$/;"	kind:variable	line:1
+j	../icpc2019/pre/matrix.py	/^        j = row.index(1)$/;"	kind:variable	line:9
+k	../ger/TTP/SV1/2188().py	/^k = input("1's >")$/;"	kind:variable	line:26
+k	../ger/TTP/SV4/3459.py	/^k = input()$/;"	kind:variable	line:17
+kruskal_mst	../and/semana_i2018/dia_4/cthulhu.py	/^    def kruskal_mst(self):$/;"	kind:member	line:41
+kruskal_mst	../ger/kevinChallenge/edgeListWeightedGraph.py	/^    def kruskal_mst(self):$/;"	kind:member	line:13
+l	../and/ttp/2017/semana4/walkingAmongMountains.py	/^		l = pnt[i][j-1]+mp[i][j]-mp[i][j-1] if mp[i][j]>mp[i][j-1] else pnt[i][j-1];$/;"	kind:variable	line:15
+l	../and/ttp/2017/semana4/walkingAmongMountains.py	/^l = 0$/;"	kind:variable	line:11
+l	../ger/cci/notes/linkedList.py	/^l = LinkedList(range(10))$/;"	kind:variable	line:66
+l	../icpc2017/repechaje/E.py	/^    l = inp[:-1].split(', ')$/;"	kind:variable	line:8
+last	../ger/TTP/SV1/2623.py	/^	last = word[((len(word)\/2)+1):]$/;"	kind:variable	line:10
+last	../ger/TTP/SV1/2623.py	/^	last = word[(len(word)\/2):]$/;"	kind:variable	line:4
+lcs	../ger/TTP/SF/2938.py	/^def lcs(S):$/;"	kind:function	line:1
+left	../ger/cci/notes/heap.py	/^    def left(self, i): return 2*i + 1$/;"	kind:member	line:9
+left_child	../ger/kevinChallenge/bheap.py	/^    def left_child(self, i): return (2*i) + 1$/;"	kind:member	line:9
+left_child	../icpc2017/repechaje/H.py	/^    def left_child(self, i): return (2*i) + 1$/;"	kind:member	line:11
+line	../and/ttp/2018/semana2/concurso/1173.py	/^        line = line.replace('BUG', '')$/;"	kind:variable	line:8
+line	../and/ttp/2018/semana2/concurso/1173.py	/^        line = raw_input()$/;"	kind:variable	line:4
+line	../ger/TTP/SV1/1551.py	/^		line = raw_input()$/;"	kind:variable	line:4
+line	../ger/TTP/SV1/1905.py	/^	line = raw_input().split(" ")$/;"	kind:variable	line:3
+line	../ger/TTP/SV1/2014.py	/^	line = raw_input().split()$/;"	kind:variable	line:3
+line	../ger/TTP/SV2/2858.py	/^line = raw_input()$/;"	kind:variable	line:1
+line	../ger/TTP/SV4/S3/3430.py	/^line = list(raw_input())$/;"	kind:variable	line:1
+line	../ger/TTP/topTecPractice/1006.py	/^line = "fcabdeighjk"$/;"	kind:variable	line:8
+line	../ger/TTP/topTecPractice/untitled.py	/^	line = raw_input().split(" ")$/;"	kind:variable	line:3
+line	../icpc2017/3/G.py	/^    line = [int(n) for n in input().split(" ")]$/;"	kind:variable	line:2
+line	../icpc2017/repechaje/B.py	/^        line = input()$/;"	kind:variable	line:17
+line	../icpc2017/repechaje/B_cases.py	/^line = input()+'$'$/;"	kind:variable	line:21
+line	../microsoft2017/packing.py	/^    line = input().strip()$/;"	kind:variable	line:13
+line	../microsoft2017/transpose.py	/^        line = input().split()$/;"	kind:variable	line:6
+lines	../icpc2018/3/I.py	/^lines = [set() for _ in range(n)]$/;"	kind:variable	line:10
+lines	../microsoft2017/packing.py	/^lines = []$/;"	kind:variable	line:11
+linkedList.py	../ger/cci/notes/linkedList.py	1;"	kind:file	line:1
+locations	../ger/TTP/SV4/3487.py	/^locations = locationsInit(board)$/;"	kind:variable	line:81
+locationsInit	../ger/TTP/SV4/3487.py	/^def locationsInit(board):$/;"	kind:function	line:21
+lst	../rpc/2/amusement.py	/^        lst = [int(x) for x in input().split()]$/;"	kind:variable	line:5
+lst	../rpc/2/monsters.py	/^        lst = [int(x) for x in input().split()]$/;"	kind:variable	line:5
+m	../and/codejam/2018/saving.py	/^            m = mp[-1][-1]$/;"	kind:variable	line:24
+m	../and/codejam/2018/saving.py	/^        m = ceil(dif \/ mp[-1][1])$/;"	kind:variable	line:21
+m	../icpc2019/pre/matrix.py	/^m = []$/;"	kind:variable	line:1
+mapp	../ger/TTP/SV4/2227.py	/^mapp = [[] for i in xrange(n)]$/;"	kind:variable	line:6
+math	../and/ttp/2018/semana1/contest/3644.py	/^import math$/;"	kind:namespace	line:2
+math	../ger/TTP/SV1/1561.py	/^import math$/;"	kind:namespace	line:1
+math	../ger/TTP/SV1/2188.py	/^import math$/;"	kind:namespace	line:1
+math	../ger/TTP/SV1/sieve.py	/^import math$/;"	kind:namespace	line:1
+math	../ger/TTP/SV2/1889.py	/^import math$/;"	kind:namespace	line:1
+math	../ger/TTP/SV2/S1/2333.py	/^import math$/;"	kind:namespace	line:1
+math	../ger/TTP/SV3/S2/3411.py	/^import math$/;"	kind:namespace	line:1
+math	../ger/TTP/topTecPractice/2430_triangular.py	/^import math$/;"	kind:namespace	line:1
+math	../ger/kevinChallenge/adjacencyListGraph.py	/^import math$/;"	kind:namespace	line:3
+math	../icpc2017/repechaje/H.py	/^import math$/;"	kind:namespace	line:2
+math	../microsoft2017/boxes.py	/^import math$/;"	kind:namespace	line:2
+math	../microsoft2017/packing.py	/^import math$/;"	kind:namespace	line:8
+math	../rpc/1/i.py	/^import math$/;"	kind:namespace	line:1
+matrix	../microsoft2017/matrix.py	/^matrix = []$/;"	kind:variable	line:29
+matrix.py	../icpc2019/pre/matrix.py	1;"	kind:file	line:1
+matrix.py	../microsoft2017/matrix.py	1;"	kind:file	line:1
+matrix1	../ger/TTP/SV3/2690.py	/^matrix1 = [[0]*cols1]*rows1$/;"	kind:variable	line:2
+matrix2	../ger/TTP/SV3/2690.py	/^matrix2 = [[0]*cols2]*rows2$/;"	kind:variable	line:8
+maxBell	../ger/TTP/SV3/S2/3346.py	/^	maxBell = budget\/price$/;"	kind:variable	line:8
+maxi	../microsoft2017/matrix.py	/^maxi = len(matrix)$/;"	kind:variable	line:34
+maxj	../microsoft2017/matrix.py	/^maxj = len(matrix[0])$/;"	kind:variable	line:35
+min_r	../microsoft2017/boxes.py	/^        min_r = side \/ math.sqrt(3)$/;"	kind:variable	line:16
+minutes	../ger/TTP/SV4/S3/2718.py	/^minutes = (diff%3600)\/60$/;"	kind:variable	line:12
+monsters.py	../rpc/2/monsters.py	1;"	kind:file	line:1
+mp	../and/codejam/2018/saving.py	/^    mp = []$/;"	kind:variable	line:9
+mp	../and/ttp/2017/semana4/walkingAmongMountains.py	/^mp = [[int(i) for i in raw_input()] for j in xrange(n)]$/;"	kind:variable	line:2
+mp	../icpc2017/repechaje/B.py	/^    mp = defaultdict(deque)$/;"	kind:variable	line:21
+mr	../ger/TTP/SV3/2690.py	/^	mr = [[0 for i in xrange(cols2)] for j in xrange(rows1)]$/;"	kind:variable	line:13
+mx	../icpc2017/3/G.py	/^    mx = max(line)$/;"	kind:variable	line:3
+my	../ger/kevinChallenge/adjacencyListGraph.py	/^import pqueue #my own priotity queue using my heap$/;"	kind:namespace	line:5
+myTime	../ger/TTP/SV3/3748.py	/^	myTime = Fraction(d1, v1)$/;"	kind:variable	line:6
+n	../and/ttp/2017/semana4/walkingAmongMountains.py	/^n = input();$/;"	kind:variable	line:1
+n	../and/ttp/2018/semana1/2662.py	/^n = input()$/;"	kind:variable	line:4
+n	../and/ttp/2018/semana1/contest/3644.py	/^        n = input()$/;"	kind:variable	line:7
+n	../and/ttp/2018/semana1/contest/3644.py	/^    n = 0$/;"	kind:variable	line:5
+n	../ger/TTP/SF/2204.py	/^	n = input()$/;"	kind:variable	line:2
+n	../ger/TTP/SV1/1905.py	/^n = int(raw_input())$/;"	kind:variable	line:1
+n	../ger/TTP/SV1/2188().py	/^n = input("0's >")$/;"	kind:variable	line:25
+n	../ger/TTP/SV2/1074.py	/^		n = input()$/;"	kind:variable	line:35
+n	../ger/TTP/SV2/S1/2333.py	/^        n = input()$/;"	kind:variable	line:30
+n	../ger/TTP/SV4/2227.py	/^n = input()$/;"	kind:variable	line:5
+n	../ger/TTP/topTecPractice/2430_triangular.py	/^	n = (i*(i+1))\/2$/;"	kind:variable	line:7
+n	../ger/TTP/topTecPractice/2430_triangular.py	/^n = 0$/;"	kind:variable	line:5
+n	../ger/TTP/topTecPractice/untitled.py	/^n = input();$/;"	kind:variable	line:1
+n	../icpc2017/repechaje/A.py	/^        n = int(input())$/;"	kind:variable	line:5
+n	../microsoft2017/consol.py	/^n = 1$/;"	kind:variable	line:1
+n	../rpc/1/B.py	/^n = int(input())$/;"	kind:variable	line:2
+n	../rpc/2/amusement.py	/^        n = int(input())$/;"	kind:variable	line:4
+n	../rpc/2/chessboard.py	/^    n = int(n)$/;"	kind:variable	line:7
+n	../rpc/2/monsters.py	/^        n = int(input())$/;"	kind:variable	line:4
+n	../rpc/2/power.py	/^        n = int(input())$/;"	kind:variable	line:19
+name	../ger/TTP/SV1/2409.py	/^name = raw_input()$/;"	kind:variable	line:1
+names	../ger/TTP/SV1/1905.py	/^	names = line[1:]$/;"	kind:variable	line:5
+ncr	../icpc2017/repechaje/C.py	/^def ncr(a, b):$/;"	kind:function	line:7
+new	../ger/TTP/SV1/2014.py	/^	new = [i for i in old]$/;"	kind:variable	line:6
+next	../rpc/1/i.py	/^def next(i): return i + 1 if i < v - 1 else 0$/;"	kind:function	line:12
+nextLocation	../ger/TTP/SV4/3487.py	/^def nextLocation(): return locations[len(locations)-1] if len(locations) != 0 else False$/;"	kind:function	line:34
+notes	../rpc/1/a.py	/^notes = ['DO', 'DO#', 'RE', 'RE#', 'MI', 'FA', 'FA#', 'SOL', 'SOL#',$/;"	kind:variable	line:2
+num	../rpc/1/h.py	/^num = int(input())$/;"	kind:variable	line:2
+numLen	../ger/TTP/SV2/S1/2333.py	/^def numLen(num):$/;"	kind:function	line:2
+numbers	../ger/TTP/SV1/2409.py	/^numbers = [int(i) for i in raw_input().split(" ")]$/;"	kind:variable	line:2
+numbers	../ger/TTP/SV2/2789.py	/^numbers = [i for i in raw_input().split("+")]$/;"	kind:variable	line:1
+numer	../ger/TTP/SV1/1905.py	/^	numer = line[0]$/;"	kind:variable	line:4
+nums	../icpc2017/repechaje/E.py	/^    nums = []$/;"	kind:variable	line:9
+nxt	../ger/TTP/SV4/S3/3740.py	/^def nxt(i): return 0 if i == n-1 else i+1$/;"	kind:function	line:1
+old	../ger/TTP/SV1/2014.py	/^	old  = [int(i) for i in line[0]]$/;"	kind:variable	line:5
+orig	../icpc2018/3/I.py	/^orig = 0$/;"	kind:variable	line:4
+orig_count	../microsoft2017/packing.py	/^orig_count = 0$/;"	kind:variable	line:6
+out_count	../microsoft2017/packing.py	/^out_count = math.ceil(len(lines) \/ sp)$/;"	kind:variable	line:29
+out_empty	../microsoft2017/packing.py	/^out_empty = (empty_count if not remove_empty else 0) + out_count * sp - len(lines)$/;"	kind:variable	line:31
+own	../ger/kevinChallenge/adjacencyListGraph.py	/^import pqueue #my own priotity queue using my heap$/;"	kind:namespace	line:5
+p	../and/codejam/2018/saving.py	/^    p = int(p)$/;"	kind:variable	line:6
+packing.py	../microsoft2017/packing.py	1;"	kind:file	line:1
+parent	../ger/cci/notes/heap.py	/^    def parent(self, i):$/;"	kind:member	line:6
+parent	../ger/kevinChallenge/bheap.py	/^    def parent(self, i): return (i-1) \/\/ 2$/;"	kind:member	line:8
+parent	../icpc2017/repechaje/H.py	/^    def parent(self, i): return (i-1) \/\/ 2$/;"	kind:member	line:10
+path_len	../ger/kevinChallenge/adjacencyListGraph.py	/^    def path_len(self, start, goal):$/;"	kind:member	line:137
+path_len_r	../ger/kevinChallenge/adjacencyListGraph.py	/^        def path_len_r(node, length, goal, path):$/;"	kind:function	line:139
+peek	../ger/kevinChallenge/bheap.py	/^    def peek(self):$/;"	kind:member	line:62
+peek	../icpc2017/repechaje/H.py	/^    def peek(self):$/;"	kind:member	line:64
+perstr	../ger/TTP/SV1/2188().py	/^perstr = ""$/;"	kind:variable	line:24
+phrases	../ger/kevinChallenge/autoEssay.py	/^phrases = [$/;"	kind:variable	line:3
+picture	../ger/TTP/SV3/2105.py	/^picture = [raw_input() for i in xrange(n)]$/;"	kind:variable	line:19
+pirates	../rpc/1/B.py	/^pirates = sorted([int(i) for i in input().split(" ")])$/;"	kind:variable	line:3
+placeSafe	../ger/TTP/SV2/1074.py	/^def placeSafe(row, column):$/;"	kind:function	line:1
+placed	../ger/TTP/SV2/1074.py	/^			placed = []$/;"	kind:variable	line:44
+plane	../rpc/2/power.py	/^    plane = defaultdict(set)$/;"	kind:variable	line:22
+pnt	../and/ttp/2017/semana4/walkingAmongMountains.py	/^pnt = [[0 for i in xrange(n)] for j in xrange(n)]$/;"	kind:variable	line:3
+point	../rpc/2/power.py	/^        point = [int(x) for x in input().split()]$/;"	kind:variable	line:25
+pokemonGo.py	../microsoft2017/pokemonGo.py	1;"	kind:file	line:1
+power.py	../rpc/2/power.py	1;"	kind:file	line:1
+pqueue	../ger/kevinChallenge/adjacencyListGraph.py	/^import pqueue #my own priotity queue using my heap$/;"	kind:namespace	line:5
+pqueue	../ger/kevinChallenge/pqueue.py	/^class pqueue(bheap):$/;"	kind:class	line:3
+pqueue	../icpc2017/repechaje/H.py	/^class pqueue(bheap):$/;"	kind:class	line:69
+pqueue.py	../ger/kevinChallenge/pqueue.py	1;"	kind:file	line:1
+prev	../ger/TTP/SV4/S3/3740.py	/^def prev(i): return n-1 if i == 0 else i-1$/;"	kind:function	line:3
+prev	../rpc/1/i.py	/^def prev(i): return i - 1 if i > 0 else v - 1$/;"	kind:function	line:11
+prime	../ger/TTP/SV2/S1/1052.py	/^def prime(a):$/;"	kind:function	line:1
+primes	../ger/TTP/SV1/1561.py	/^primes = sieve(1000000)$/;"	kind:variable	line:23
+primes	../ger/TTP/SV2/S1/2333.py	/^primes = sieve(999999)$/;"	kind:variable	line:26
+print	../ger/lessThan10/ten.py	/^from re import sub; print sub("[A-Za-z][0-9][0-9]","***", raw_input())/;"	kind:namespace	line:1
+printer	../ger/TTP/SV2/1074.py	/^def printer():$/;"	kind:function	line:7
+priotity	../ger/kevinChallenge/adjacencyListGraph.py	/^import pqueue #my own priotity queue using my heap$/;"	kind:namespace	line:5
+put	../ger/TTP/SV4/3487.py	/^def put(board, square, number):$/;"	kind:function	line:48
+que	../icpc2017/repechaje/B_cases.py	/^que = deque()$/;"	kind:variable	line:22
+queenSearch	../ger/TTP/SV2/1074.py	/^def queenSearch(row):$/;"	kind:function	line:15
+queue	../ger/kevinChallenge/adjacencyListGraph.py	/^import pqueue #my own priotity queue using my heap$/;"	kind:namespace	line:5
+r	../ger/TTP/SV2/1074.py	/^			r = 1$/;"	kind:variable	line:47
+r	../ger/TTP/SV3/S2/3411.py	/^	r = float(input())$/;"	kind:variable	line:3
+randint	../ger/kevinChallenge/autoEssay.py	/^from random import randint$/;"	kind:namespace	line:1
+random_construct	../ger/kevinChallenge/autoEssay.py	/^def random_construct():$/;"	kind:function	line:58
+raw_input	../ger/lessThan10/ten.py	/^from re import sub; print sub("[A-Za-z][0-9][0-9]","***", raw_input())/;"	kind:namespace	line:1
+re	../icpc2017/repechaje/E.py	/^import re$/;"	kind:namespace	line:2
+read	../ger/TTP/SV4/3487.py	/^def read():$/;"	kind:function	line:1
+reading	../icpc2018/3/I.py	/^    reading = 0$/;"	kind:variable	line:13
+readings	../icpc2018/3/I.py	/^readings = []$/;"	kind:variable	line:9
+rec	../icpc2017/repechaje/B.py	/^def rec(c, orig, mp, line, srt, res):$/;"	kind:function	line:5
+rec	../icpc2017/repechaje/B_cases.py	/^    def rec(c, mp, line, srt, res):$/;"	kind:function	line:4
+rec	../icpc2017/repechaje/J.py	/^def rec(node, graph, visited):$/;"	kind:function	line:2
+recorded	../ger/TTP/SV2/S1/2520.py	/^ 	recorded = [i for i in raw_input().split()]$/;"	kind:variable	line:6
+res	../and/ttp/2018/semana2/1360.py	/^    res = []$/;"	kind:variable	line:7
+res	../icpc2017/repechaje/A.py	/^        res = Fraction(3 * n, 2 * n + 1)$/;"	kind:variable	line:6
+res	../icpc2017/repechaje/B.py	/^    res = deque()$/;"	kind:variable	line:27
+res	../rpc/2/amusement.py	/^            res = i + 2$/;"	kind:variable	line:16
+res	../rpc/2/amusement.py	/^    res = 1$/;"	kind:variable	line:13
+rg	../icpc2017/repechaje/E.py	/^rg = re.compile(r'-?\\d')$/;"	kind:variable	line:3
+right	../ger/cci/notes/heap.py	/^    def right(self, i): return self.lef(i) + 1$/;"	kind:member	line:11
+right_child	../ger/kevinChallenge/bheap.py	/^    def right_child(self, i): return (2*i) + 2$/;"	kind:member	line:10
+right_child	../icpc2017/repechaje/H.py	/^    def right_child(self, i): return (2*i) + 2$/;"	kind:member	line:12
+rob	../ger/TTP/SV4/3459.py	/^def rob(n):$/;"	kind:function	line:4
+robots	../ger/TTP/SV4/3459.py	/^robots = [0, 1, 3, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]$/;"	kind:variable	line:1
+round.py	../icpc2019/pre/round.py	1;"	kind:file	line:1
+rows	../ger/TTP/SV4/3487.py	/^rows = [[False for i in xrange(11)] for j in xrange(10)]$/;"	kind:variable	line:77
+s	../and/ttp/2018/semana1/2662.py	/^s = defaultdict(int)$/;"	kind:variable	line:3
+s	../ger/TTP/SV1/2188().py	/^s = set("")$/;"	kind:variable	line:29
+s	../icpc2019/pre/helpful_maths.py	/^s = input().split('+')$/;"	kind:variable	line:1
+s	../rpc/1/a.py	/^s = int(s)$/;"	kind:variable	line:5
+sameset	../and/semana_i2018/dia_4/cthulhu.py	/^        def sameset(v1, v2):$/;"	kind:function	line:47
+sameset	../ger/kevinChallenge/edgeListWeightedGraph.py	/^        def sameset(v1, v2):$/;"	kind:function	line:19
+saving.py	../and/codejam/2018/saving.py	1;"	kind:file	line:1
+score	../ger/TTP/SV1/2188().py	/^def score(perm):$/;"	kind:function	line:2
+scoreBianka	../ger/TTP/SV2/S1/2446.py	/^def scoreBianka(inp):$/;"	kind:function	line:1
+scoreWilliams	../ger/TTP/SV2/S1/2446.py	/^def scoreWilliams(inp):$/;"	kind:function	line:6
+scores	../ger/TTP/SV2/2145.py	/^	scores = [int(j) for j in raw_input().split()]$/;"	kind:variable	line:2
+scores	../ger/TTP/SV2/untitled.py	/^	scores = [int(i) for i in raw_input().split()]$/;"	kind:variable	line:2
+search	../ger/TTP/SV4/2227.py	/^def search(i, j):$/;"	kind:function	line:2
+search	../rpc/2/power.py	/^def search(x,y,do):$/;"	kind:function	line:4
+second	../ger/TTP/SV2/S1/2520.py	/^	second = []$/;"	kind:variable	line:22
+second	../ger/TTP/SV2/S1/2520.py	/^	second = [int(i) for i in second]$/;"	kind:variable	line:26
+second	../ger/TTP/SV2/S1/2520.py	/^	second = [str(i) for i in second]$/;"	kind:variable	line:28
+seen	../ger/TTP/SV2/S1/2520.py	/^	seen = [str(i) for i in range(1, P+1)]$/;"	kind:variable	line:4
+sellers	../ger/TTP/SV3/S2/3346.py	/^sellers = [int(i) for i in raw_input().split()]$/;"	kind:variable	line:5
+sieve	../ger/TTP/SV1/1561.py	/^def sieve(limit):$/;"	kind:function	line:3
+sieve	../ger/TTP/SV1/sieve.py	/^def sieve(limit):$/;"	kind:function	line:2
+sieve	../ger/TTP/SV2/S1/2333.py	/^def sieve(limit):$/;"	kind:function	line:5
+sieve.py	../ger/TTP/SV1/sieve.py	1;"	kind:file	line:1
+sift_down	../ger/kevinChallenge/bheap.py	/^    def sift_down(self, cur_idx):$/;"	kind:member	line:23
+sift_down	../icpc2017/repechaje/H.py	/^    def sift_down(self, cur_idx):$/;"	kind:member	line:25
+sift_up	../ger/kevinChallenge/bheap.py	/^    def sift_up(self, cur_idx):$/;"	kind:member	line:15
+sift_up	../icpc2017/repechaje/H.py	/^    def sift_up(self, cur_idx):$/;"	kind:member	line:17
+solve	../ger/TTP/SV4/3487.py	/^def solve(board):$/;"	kind:function	line:62
+sp	../microsoft2017/packing.py	/^sp = int(sp)$/;"	kind:variable	line:5
+sqrt	../ger/TTP/SF/1862_nwtn.py	/^from math import sqrt$/;"	kind:namespace	line:1
+srt	../icpc2017/repechaje/B.py	/^    srt = sorted(line)$/;"	kind:variable	line:20
+start	../and/ttp/2018/semana2/1979.py	/^start = datetime(2011,11,11,11,11)$/;"	kind:variable	line:4
+stops	../microsoft2017/pokemonGo.py	/^stops = []$/;"	kind:variable	line:4
+strword	../ger/TTP/SV4/S3/3468.py	/^	strword = "".join(sorted(raw_input()))$/;"	kind:variable	line:3
+sub	../ger/lessThan10/ten.py	/^from re import sub; print sub("[A-Za-z][0-9][0-9]","***", raw_input())/;"	kind:namespace	line:1
+summ	../ger/TTP/SV2/1889.py	/^summ = 0$/;"	kind:variable	line:6
+superSieve	../ger/TTP/SV4/3355.py	/^def superSieve(n):$/;"	kind:function	line:1
+superprime	../ger/TTP/SV2/S1/2333.py	/^                    superprime = False$/;"	kind:variable	line:45
+superprime	../ger/TTP/SV2/S1/2333.py	/^            superprime = True$/;"	kind:variable	line:39
+superset	../ger/TTP/SV1/2188().py	/^superset = [[i, score(i)] for i in s]$/;"	kind:variable	line:31
+swaps	../and/codejam/2018/saving.py	/^    swaps = 0$/;"	kind:variable	line:18
+switcheroo	../ger/TTP/topTecPractice/1006.py	/^def switcheroo(line, start, end):$/;"	kind:function	line:1
+t	../and/codejam/2018/saving.py	/^t = int(input())$/;"	kind:variable	line:3
+t	../and/ttp/2017/semana4/walkingAmongMountains.py	/^		t = pnt[i-1][j]+mp[i][j]-mp[i-1][j] if mp[i][j]>mp[i-1][j] else pnt[i-1][j];$/;"	kind:variable	line:14
+t	../and/ttp/2017/semana4/walkingAmongMountains.py	/^t = 0$/;"	kind:variable	line:10
+t	../ger/TTP/SV3/3748.py	/^t = 1$/;"	kind:variable	line:2
+take	../ger/TTP/SV4/3487.py	/^def take(board, square, number):$/;"	kind:function	line:55
+ten.py	../ger/lessThan10/ten.py	1;"	kind:file	line:1
+text	../ger/TTP/SV3/S2/3418.py	/^		text = raw_input()$/;"	kind:variable	line:3
+time	../ger/TTP/SV4/3459.py	/^def time(n):$/;"	kind:function	line:10
+timedelta	../and/ttp/2018/semana2/1979.py	/^from datetime import datetime, timedelta$/;"	kind:namespace	line:2
+times	../ger/TTP/SV4/3459.py	/^times = [0, 0, 8, 35, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]$/;"	kind:variable	line:2
+toRet	../ger/TTP/topTecPractice/untitled.py	/^	toRet = "".join(line[0].split()[:2])$/;"	kind:variable	line:4
+top	../ger/TTP/topTecPractice/2430_triangular.py	/^top = 160000000000000000000$/;"	kind:variable	line:4
+topSort	../ger/kevinChallenge/adjacencyListGraph.py	/^    def topSort(self):$/;"	kind:member	line:19
+topSortR	../ger/kevinChallenge/adjacencyListGraph.py	/^        def topSortR(v, visited, answ):$/;"	kind:function	line:21
+topr	../icpc2017/repechaje/B_cases.py	/^topr = []$/;"	kind:variable	line:31
+toret	../ger/TTP/SF/2204.py	/^	toret = [int(i) for i in range(1,n+1)]$/;"	kind:variable	line:3
+toret	../ger/TTP/SV1/1905.py	/^	toret = numer[:2]$/;"	kind:variable	line:6
+toret	../ger/TTP/SV2/2145.py	/^	toret = str(i+1) + " " + str(c)$/;"	kind:variable	line:6
+toret	../ger/TTP/SV2/2858.py	/^toret = ""$/;"	kind:variable	line:2
+tot	../rpc/1/B.py	/^        tot = 0$/;"	kind:variable	line:12
+tot	../rpc/1/B.py	/^tot = 1$/;"	kind:variable	line:6
+total	../ger/TTP/SV2/1074.py	/^		total = 1$/;"	kind:variable	line:42
+total	../microsoft2017/boxes.py	/^total = 0$/;"	kind:variable	line:4
+totalDist	../microsoft2017/pokemonGo.py	/^totalDist = 0$/;"	kind:variable	line:5
+totalSellers	../ger/TTP/SV3/S2/3346.py	/^totalSellers = input()$/;"	kind:variable	line:4
+transpose.py	../microsoft2017/transpose.py	1;"	kind:file	line:1
+tree	../ger/cci/notes/tree.py	/^tree = BinaryTree(100)$/;"	kind:variable	line:43
+tree.py	../ger/cci/notes/tree.py	1;"	kind:file	line:1
+types	../icpc2017/repechaje/E.py	/^    types = []$/;"	kind:variable	line:11
+unique	../ger/TTP/SV3/2951.py	/^unique = set()$/;"	kind:variable	line:1
+untitled.py	../ger/TTP/SV2/untitled.py	1;"	kind:file	line:1
+untitled.py	../ger/TTP/topTecPractice/untitled.py	1;"	kind:file	line:1
+up	../rpc/1/h.py	/^        up = False$/;"	kind:variable	line:9
+up	../rpc/1/h.py	/^        up = True$/;"	kind:variable	line:12
+up	../rpc/1/h.py	/^up = heights[0] < heights[1]$/;"	kind:variable	line:5
+update_key	../ger/kevinChallenge/bheap.py	/^    def update_key(self, i, value):$/;"	kind:member	line:55
+update_key	../ger/kevinChallenge/pqueue.py	/^    def update_key(self, key, value):$/;"	kind:member	line:22
+update_key	../icpc2017/repechaje/H.py	/^    def update_key(self, i, value):$/;"	kind:member	line:57
+update_key	../icpc2017/repechaje/H.py	/^    def update_key(self, key, value):$/;"	kind:member	line:88
+using	../ger/kevinChallenge/adjacencyListGraph.py	/^import pqueue #my own priotity queue using my heap$/;"	kind:namespace	line:5
+v	../and/codejam/2018/saving.py	/^    v = 1$/;"	kind:variable	line:7
+v	../rpc/1/i.py	/^v = int(input())$/;"	kind:variable	line:14
+validMove	../ger/TTP/SV4/3487.py	/^def validMove(board, square, number):$/;"	kind:function	line:36
+visited	../rpc/2/power.py	/^    visited = defaultdict(set)$/;"	kind:variable	line:29
+vow	../ger/TTP/SV3/S2/3418.py	/^		vow = [0, 0, 0, 0, 0]$/;"	kind:variable	line:4
+vow	../ger/TTP/SV3/S2/3418.py	/^vow = [str(i) for i in vow]$/;"	kind:variable	line:15
+walkingAmongMountains.py	../and/ttp/2017/semana4/walkingAmongMountains.py	1;"	kind:file	line:1
+williams	../ger/TTP/SV2/S1/2446.py	/^williams = scoreWilliams(williams)$/;"	kind:variable	line:31
+win	../ger/TTP/SV2/S1/2446.py	/^win = winner(bianka, williams)$/;"	kind:variable	line:33
+winner	../ger/TTP/SV2/S1/2446.py	/^def winner(bianka, williams):$/;"	kind:function	line:12
+word	../ger/TTP/SF/2701.py	/^word = sum([ord(i)-64 for i in raw_input().rstrip("\\n")])$/;"	kind:variable	line:1
+word	../ger/TTP/SV1/2623.py	/^word = list(raw_input())$/;"	kind:variable	line:1
+words	../icpc2017/repechaje/E.py	/^    words = []$/;"	kind:variable	line:10
+write	../ger/TTP/SV4/3487.py	/^def write(arr):$/;"	kind:function	line:12
+x	../and/ttp/2018/semana1/2662.py	/^    x = sorted(raw_input().split())$/;"	kind:variable	line:6
+years	../ger/TTP/SV3/S2/3410.py	/^years = [0]*2016 $/;"	kind:variable	line:1

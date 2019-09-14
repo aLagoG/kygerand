@@ -16,10 +16,7 @@
             "type": "python",
             "request": "launch",
             "program": "${file}",
-            "args": [
-                "<",
-                "${fileDirname}/${fileBasenameNoExtension}.in"
-            ],
+            "args": ["<", "${fileDirname}/${fileBasenameNoExtension}.in"],
             "console": "integratedTerminal"
         },
         {
@@ -40,6 +37,7 @@
                 }
             ],
             "preLaunchTask": "build_file_debug"
+            // "miDebuggerPath": "/usr/bin/lldb",
         },
         {
             "name": "(lldb) launch",
@@ -53,17 +51,15 @@
             // "externalConsole": true,
             "MIMode": "lldb",
             "preLaunchTask": "build_file_debug"
+            // "miDebuggerPath": "/usr/bin/lldb"
         },
         {
             "name": "(gdb) w/ input",
             "type": "cppdbg",
             "request": "launch",
             "program": "${fileDirname}/${fileBasenameNoExtension}.out",
-            "args": [
-                "<",
-                "${fileDirname}/${fileBasenameNoExtension}.in"
-            ],
-            "stopAtEntry": false,
+            "args": ["<", "${fileDirname}/${fileBasenameNoExtension}.in"],
+            "stopAtEntry": true,
             "cwd": "${fileDirname}",
             "environment": [],
             "externalConsole": true,
