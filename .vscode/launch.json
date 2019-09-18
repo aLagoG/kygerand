@@ -59,7 +59,7 @@
             "request": "launch",
             "program": "${fileDirname}/${fileBasenameNoExtension}.out",
             "args": ["<", "${fileDirname}/${fileBasenameNoExtension}.in"],
-            "stopAtEntry": true,
+            "stopAtEntry": false,
             "cwd": "${fileDirname}",
             "environment": [],
             "externalConsole": true,
